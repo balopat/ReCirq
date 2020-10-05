@@ -7,7 +7,9 @@
   ],
   "access_right": "open",
   "upload_type": "software",
-  "license": "Apache 2.0",
+  "license": {
+    "id":"Apache 2.0"
+  },
   "keywords": [
     "Quantum Computing",
     "NISQ",
