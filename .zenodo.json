@@ -6,8 +6,8 @@
     }
   ],
   "access_right": "open",
-  "resource_type": { "type": "software" },
-  "license": { "type": "Apache 2.0" },
+  "upload_type": "software",
+  "license": "Apache 2.0",
   "keywords": [
     "Quantum Computing",
     "NISQ",
