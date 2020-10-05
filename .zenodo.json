@@ -1,0 +1,13 @@
+{
+    "description": "<p>vv</p>",
+    "license": "other-open",
+    "title": "balopat/ReCirq",
+    "upload_type": "software",
+    "creators": [
+        {
+            "affiliation": "Google Inc",
+            "name": "Quantum AI team and collaborators"
+        }
+    ],
+    "access_right": "open"
+}

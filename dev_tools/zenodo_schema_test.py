@@ -11,7 +11,7 @@ def test_zenodo_config():
     # schema_url = ('https://zenodo.org/schemas/records/record-v1.0.0.json')
     with open('dev_tools/zenodo_schema.json') as f_schema:
         schema = json.load(f_schema)
-        with open("remove.zenodo.json", "rb") as f_config:
+        with open(".zenodo.json", "rb") as f_config:
             config = json.load(f_config)
             try:
                 jsonschema.validate(config, schema)
