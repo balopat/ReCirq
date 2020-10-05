@@ -1,16 +1,16 @@
 {
-  "metadata": {
-    "title": "Test-ReCirq",
-    "description": "ReCirq contains modules for running quantum computing applications and experiments through Cirq and Google&#39;s Quantum Computing Service.",
-    "license": "Apache-2.0",
-    "creators": [
-      {
-        "affiliation": "Google Inc",
-        "name": "Quantum AI team and collaborators"
-      }
-    ],
-    "access_right": "open",
-    "upload_type": "software",
-    "keywords": ["Quantum Computing", "NISQ", "Google Quantum AI",]
-  }
+  "creators": [
+    {
+      "affiliation": "Google Inc",
+      "name": "Quantum AI team and collaborators"
+    }
+  ],
+  "access_right": "open",
+  "resource_type": { "type": "software" },
+  "license": { "type": "Apache 2.0" },
+  "keywords": [
+    "Quantum Computing",
+    "NISQ",
+    "Google Quantum AI"
+  ]
 }
