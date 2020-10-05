@@ -1,5 +1,5 @@
 {
-  "description": "<p>This point release fixes the deprecation of <code>cirq.TrialResult</code> to <code>cirq.Result</code> in a backward compatible way with regards to the JSON parsing as well. There are no changes in any other user-facing functionality.</p>\n<p>No other changes to cirq functionality. No protocol changes, top-level changes or other changes.</p>\n<p>Complete list of changes:</p>\n<p>804c3381 Merge branch 'v0.9.1-dev' of github.com:quantumlib/Cirq into v0.9.1-dev\nd58423a3 remove accidental print (#3384)\na7790f22 remove accidental print\na95a2e35 Fix TrialResult deprecation (#3381) (#3382)\n785ffafd Bump cirq version to 0.9.1</p>",
+  "description": "ReCirq is code from Google for NISQ machines",
   "license": "Apache 2.0",
   "title": "ReCirq",
   "upload_type": "software",
