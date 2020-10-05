@@ -109,17 +109,5 @@
             "name": "Tanuj Khattar"
         }
     ],
-    "access_right": "open",
-    "related_identifiers": [
-        {
-            "scheme": "url",
-            "identifier": "https://github.com/quantumlib/Cirq/tree/v0.9.1",
-            "relation": "isSupplementTo"
-        },
-        {
-            "scheme": "doi",
-            "identifier": "10.5281/zenodo.4062499",
-            "relation": "isVersionOf"
-        }
-    ]
+    "access_right": "open"
 }
