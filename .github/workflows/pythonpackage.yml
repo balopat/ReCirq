@@ -52,3 +52,8 @@ jobs:
       run: |
         pip install pytest
         pytest -v
+
+    - name: Check Zenodo config
+      run: |
+        pip install jsonschema
+        python dev_tools_zenodo_schema_test.py
