@@ -1,18 +1,125 @@
 {
-  "creators": [
-    {
-      "affiliation": "Google Inc",
-      "name": "Quantum AI team and collaborators"
-    }
-  ],
-  "access_right": "open",
-  "upload_type": "software",
-  "license": {
-    "id":"Apache 2.0"
-  },
-  "keywords": [
-    "Quantum Computing",
-    "NISQ",
-    "Google Quantum AI"
-  ]
+    "description": "<p>This point release fixes the deprecation of <code>cirq.TrialResult</code> to <code>cirq.Result</code> in a backward compatible way with regards to the JSON parsing as well. There are no changes in any other user-facing functionality.</p>\n<p>No other changes to cirq functionality. No protocol changes, top-level changes or other changes.</p>\n<p>Complete list of changes:</p>\n<p>804c3381 Merge branch 'v0.9.1-dev' of github.com:quantumlib/Cirq into v0.9.1-dev\nd58423a3 remove accidental print (#3384)\na7790f22 remove accidental print\na95a2e35 Fix TrialResult deprecation (#3381) (#3382)\n785ffafd Bump cirq version to 0.9.1</p>",
+    "license": "other-open",
+    "title": "quantumlib/Cirq: Cirq v0.9.1",
+    "version": "v0.9.1",
+    "upload_type": "software",
+    "publication_date": "2020-10-02",
+    "creators": [
+        {
+            "affiliation": "Google",
+            "name": "Craig Gidney"
+        },
+        {
+            "name": "Dave Bacon"
+        },
+        {
+            "affiliation": "Google",
+            "name": "Doug Strain"
+        },
+        {
+            "name": "Kevin J. Sung"
+        },
+        {
+            "name": "Casey Duckering"
+        },
+        {
+            "name": "Adam Zalcman"
+        },
+        {
+            "affiliation": "Google",
+            "name": "Matthew Neeley"
+        },
+        {
+            "affiliation": "Google SF",
+            "name": "Balint Pato"
+        },
+        {
+            "name": "Bryan A. O'Gorman"
+        },
+        {
+            "name": "Wojciech Mruczkiewicz"
+        },
+        {
+            "name": "smitsanghavi"
+        },
+        {
+            "affiliation": "Google",
+            "name": "Matthew Harrigan"
+        },
+        {
+            "affiliation": "Google",
+            "name": "Andreas Bengtsson"
+        },
+        {
+            "name": "Anna Nachesa"
+        },
+        {
+            "name": "Cody Poole"
+        },
+        {
+            "name": "lindmarkm"
+        },
+        {
+            "name": "KevinVillela"
+        },
+        {
+            "name": "Orion Martin"
+        },
+        {
+            "affiliation": "Google",
+            "name": "tonybruguier-google"
+        },
+        {
+            "name": "Victory Omole"
+        },
+        {
+            "name": "MichaelBroughton"
+        },
+        {
+            "name": "William Courtney"
+        },
+        {
+            "affiliation": "Google",
+            "name": "Dmytro Fedoriaka"
+        },
+        {
+            "affiliation": "Google",
+            "name": "Tim Swast"
+        },
+        {
+            "name": "evan"
+        },
+        {
+            "affiliation": "Google",
+            "name": "David Yonge-Mallo"
+        },
+        {
+            "name": "Ping Yeh"
+        },
+        {
+            "affiliation": "Google",
+            "name": "Vamsi Krishna Devabathini"
+        },
+        {
+            "affiliation": "Pasqal",
+            "name": "Henrique Silv\u00e9rio"
+        },
+        {
+            "name": "Tanuj Khattar"
+        }
+    ],
+    "access_right": "open",
+    "related_identifiers": [
+        {
+            "scheme": "url",
+            "identifier": "https://github.com/quantumlib/Cirq/tree/v0.9.1",
+            "relation": "isSupplementTo"
+        },
+        {
+            "scheme": "doi",
+            "identifier": "10.5281/zenodo.4062499",
+            "relation": "isVersionOf"
+        }
+    ]
 }
